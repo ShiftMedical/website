@@ -2,7 +2,7 @@
 	var app = angular.module("Medjuvo", ["ui.bootstrap"]);
 
 	app.constant("appConfig", {
-		"brandName": "Medjuvo",
+		"brandName": "ShiftMedical",
 		"brandTagline": "Numb the pain of practicing medicine",
 		"brandLeadText": "Where you can do all the things. We make it easy to do all the things. You should sign up now."
 	});

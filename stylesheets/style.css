@@ -37,7 +37,7 @@ body {
 
 #bigscreen {
 	/*background: url(images/bg.jpg) no-repeat center center fixed; */
-	background: url(/images/unsplash/photo-1428342319217-5fdaf6d7898e.jpeg) no-repeat center center fixed;
+	background: url(../images/unsplash/photo-1428342319217-5fdaf6d7898e.jpeg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

@@ -2,6 +2,8 @@
 
 [View on GitHub Pages](http://shiftmedical.github.io/website/)
 
+[Website Text.docx](https://drive.google.com/open?id=0B1x1D7pepYiqR2JReVZuUmMxakU&authuser=0)
+
 Running locally
 ---------------
 
